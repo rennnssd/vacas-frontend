@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "080678184f7572377fb026c5c19e5760",
-    "previewModeSigningKey": "8d6308eef29d2b0c44fc54f3eb6a97ef38272eb5ca892d0c0945c5a8ad5c778d",
-    "previewModeEncryptionKey": "a5a495b2b31cd9b2615155e0bd51e9df7117d806fb2d0344ae2894dc40d84c40"
-  }
-}
+{"version":4,"routes":{"/favicon.ico":{"initialHeaders":{"cache-control":"public, max-age=0, must-revalidate","content-type":"image/x-icon","x-next-cache-tags":"_N_T_/layout,_N_T_/favicon.ico/layout,_N_T_/favicon.ico/route,_N_T_/favicon.ico"},"experimentalBypassFor":[{"type":"header","key":"Next-Action"},{"type":"header","key":"content-type","value":"multipart/form-data;.*"}],"initialRevalidateSeconds":false,"srcRoute":"/favicon.ico","dataRoute":null},"/":{"experimentalBypassFor":[{"type":"header","key":"Next-Action"},{"type":"header","key":"content-type","value":"multipart/form-data;.*"}],"initialRevalidateSeconds":false,"srcRoute":"/","dataRoute":"/index.rsc"}},"dynamicRoutes":{},"notFoundRoutes":[],"preview":{"previewModeId":"bff264da76e971d4a5d668f6393bc398","previewModeSigningKey":"20679519f11a8df037fda224ab97e8999b29abcbefaf84a0fcfb78fbfed3df55","previewModeEncryptionKey":"238f1f714606cd90af1c6d45cd96e917799b875093673e4760e381c599d2e581"}}
